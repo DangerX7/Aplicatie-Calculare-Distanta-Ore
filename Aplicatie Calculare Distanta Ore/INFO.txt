@@ -1,0 +1,2 @@
+Aceasta este o aplicatie simpla care ia ca input o anumita ora si zi ca baza, si un anumit interval de timp
+masurat in ore si expune ca rezultat ora si data cerute de utilizator.
